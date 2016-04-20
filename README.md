@@ -10,3 +10,5 @@ Clients tell me I am an empathetic designer and design staff consider me a givin
 I’ve designed for the likes of Proctor & Gamble, Miller Brewing, Microsoft, National Geographic, Pfizer, AOL Time Warner, Ford, US Airways and the American Institute of Architects. However, my passion is for cause-related design that makes a difference — since we all should be yearning to be part of something greater than ourselves.
 
 Though I now work in mobile, past work includes campaigns that give voice to the tragedy in Darfur, multilingual collateral for the World Health Organization, graphic support for the Bill & Melinda Gates Foundation's effort to improve education in America, congressional reports for the DHS and designs for DaimlerChrysler's campaign to reduce teen driving fatalities.
+
+(I use github mainly for work. If I ever develop something groundbreaking I'll share. Until then there's nothing to see.)
